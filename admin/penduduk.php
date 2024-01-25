@@ -62,7 +62,7 @@
                     <a href="?hal=penduduk_olah&id=<?php echo $id_penduduk; ?>" 
                       class="btn btn-icon btn-primary" title="Edit Data"><i class="fa fa-edit"></i> </a>
 
-                      <a class="btn btn-danger" title="Hapus Data" href="penduduk_proses.php?hapus=<?php echo $id_pasien;?>" 
+                      <a class="btn btn-danger" title="Hapus Data" href="penduduk_proses.php?hapus=<?php echo $id_penduduk;?>" 
                         onclick="return confirm('Apakah anda yakin akan menghapus data ini?')"> <i class="fa fa-trash"></i></a>
 
                       </td>
